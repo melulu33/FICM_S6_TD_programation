@@ -1,0 +1,3 @@
+Ton code est assez propre, et notamment bien expliqué avec des commentaires.
+Maintenant le souci est que je ne peux pas lancer le code pour le TD6 et qu'il y a une erreur directe, et c'est vraiment dommage, notamment dans le cas d'une interface graphique, sachant que tu devais globalement t'inspirer de ton code précédent et juste changer son organisation (ce que tu as bien fait d'ailleurs, la séparation App / data est plutôt réussie). Mais dans le cas d'une interface graphique, avoir une erreur directement et ne pas voir la fenêtre est quand même assez dommage.
+Encore une fois, je pense que la logique globale de ton code est bonne et que ca devrait sans doute marcher, mais c'est dommage d'avoir une erreur directement à l'ouverture.
